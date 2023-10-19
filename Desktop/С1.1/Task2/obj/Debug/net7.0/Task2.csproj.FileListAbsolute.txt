@@ -1,0 +1,15 @@
+/Users/sserebell/Desktop/С1.1/Task2/bin/Debug/net7.0/Task2
+/Users/sserebell/Desktop/С1.1/Task2/bin/Debug/net7.0/Task2.deps.json
+/Users/sserebell/Desktop/С1.1/Task2/bin/Debug/net7.0/Task2.runtimeconfig.json
+/Users/sserebell/Desktop/С1.1/Task2/bin/Debug/net7.0/Task2.dll
+/Users/sserebell/Desktop/С1.1/Task2/bin/Debug/net7.0/Task2.pdb
+/Users/sserebell/Desktop/С1.1/Task2/obj/Debug/net7.0/Task2.csproj.AssemblyReference.cache
+/Users/sserebell/Desktop/С1.1/Task2/obj/Debug/net7.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sserebell/Desktop/С1.1/Task2/obj/Debug/net7.0/Task2.AssemblyInfoInputs.cache
+/Users/sserebell/Desktop/С1.1/Task2/obj/Debug/net7.0/Task2.AssemblyInfo.cs
+/Users/sserebell/Desktop/С1.1/Task2/obj/Debug/net7.0/Task2.csproj.CoreCompileInputs.cache
+/Users/sserebell/Desktop/С1.1/Task2/obj/Debug/net7.0/Task2.dll
+/Users/sserebell/Desktop/С1.1/Task2/obj/Debug/net7.0/refint/Task2.dll
+/Users/sserebell/Desktop/С1.1/Task2/obj/Debug/net7.0/Task2.pdb
+/Users/sserebell/Desktop/С1.1/Task2/obj/Debug/net7.0/Task2.genruntimeconfig.cache
+/Users/sserebell/Desktop/С1.1/Task2/obj/Debug/net7.0/ref/Task2.dll

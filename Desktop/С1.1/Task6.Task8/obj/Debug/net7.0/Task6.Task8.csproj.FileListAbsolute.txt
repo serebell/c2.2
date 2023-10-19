@@ -1,0 +1,15 @@
+/Users/sserebell/Desktop/С1.1/Task6.Task8/bin/Debug/net7.0/Task6.Task8
+/Users/sserebell/Desktop/С1.1/Task6.Task8/bin/Debug/net7.0/Task6.Task8.deps.json
+/Users/sserebell/Desktop/С1.1/Task6.Task8/bin/Debug/net7.0/Task6.Task8.runtimeconfig.json
+/Users/sserebell/Desktop/С1.1/Task6.Task8/bin/Debug/net7.0/Task6.Task8.dll
+/Users/sserebell/Desktop/С1.1/Task6.Task8/bin/Debug/net7.0/Task6.Task8.pdb
+/Users/sserebell/Desktop/С1.1/Task6.Task8/obj/Debug/net7.0/Task6.Task8.csproj.AssemblyReference.cache
+/Users/sserebell/Desktop/С1.1/Task6.Task8/obj/Debug/net7.0/Task6.Task8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sserebell/Desktop/С1.1/Task6.Task8/obj/Debug/net7.0/Task6.Task8.AssemblyInfoInputs.cache
+/Users/sserebell/Desktop/С1.1/Task6.Task8/obj/Debug/net7.0/Task6.Task8.AssemblyInfo.cs
+/Users/sserebell/Desktop/С1.1/Task6.Task8/obj/Debug/net7.0/Task6.Task8.csproj.CoreCompileInputs.cache
+/Users/sserebell/Desktop/С1.1/Task6.Task8/obj/Debug/net7.0/Task6.Task8.dll
+/Users/sserebell/Desktop/С1.1/Task6.Task8/obj/Debug/net7.0/refint/Task6.Task8.dll
+/Users/sserebell/Desktop/С1.1/Task6.Task8/obj/Debug/net7.0/Task6.Task8.pdb
+/Users/sserebell/Desktop/С1.1/Task6.Task8/obj/Debug/net7.0/Task6.Task8.genruntimeconfig.cache
+/Users/sserebell/Desktop/С1.1/Task6.Task8/obj/Debug/net7.0/ref/Task6.Task8.dll
